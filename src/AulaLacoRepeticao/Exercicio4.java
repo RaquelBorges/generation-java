@@ -59,6 +59,10 @@ public class Exercicio4 {
 					g3++;
 				}
 				break;
+			
+			default:
+				System.out.println("\nOpção inválida");
+				
 			}
 		}
 		System.out.printf("Número de pessoas calmas: " + g1);
