@@ -1,4 +1,4 @@
-package AulaLacoRepeticao;
+package aulaLacoRepeticao;
 
 import java.util.Scanner;
 
