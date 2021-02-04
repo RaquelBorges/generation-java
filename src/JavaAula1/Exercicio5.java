@@ -25,7 +25,7 @@ public class Exercicio5 {
 		media = ((n1*2) + (n2*3) + (n3*5))/10;
 		System.out.println("A média do aluno foi " + media);
 		
-		
+		ler.close();		
 	}
 
 }

@@ -20,5 +20,7 @@ public class Exercicio2 {
 		idadeDias = (idadeDias%365) % 30;
 		
 		System.out.println("Você tem " + idadeAnos + " anos " + idadeMeses + " meses e " + idadeDias + "dias de idade");	
+		
+		ler.close();
 	}
 }

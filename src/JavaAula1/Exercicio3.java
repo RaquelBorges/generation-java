@@ -21,6 +21,9 @@ public class Exercicio3 {
 		segundos = (segundos%3600) % 60;
 		
 		System.out.println("O evento tem duração total de " + horas + " hora(s) " + minutos + " minuto(s) e " + segundos + " segundo(s)");
+		
+		ler.close();
+
 	}
 
 }

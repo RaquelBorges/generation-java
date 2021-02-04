@@ -26,5 +26,6 @@ public class Exercicio2 {
 			}
 		}
 		System.out.println("\nNúmeros pares: " + par + "\nNúmeros ímpares: " + impar);
+		
 	}
 }
